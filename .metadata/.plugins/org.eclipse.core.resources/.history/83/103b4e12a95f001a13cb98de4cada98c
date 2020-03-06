@@ -9,8 +9,7 @@
 	<body>
 		
 		<h1>Hello jsp!</h1>
-		<p>this is jsp</p>
-		<p>commit and push</p>
+		<li>??<li>
 		
 	</body>
 </html>
